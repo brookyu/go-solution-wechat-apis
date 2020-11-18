@@ -33,18 +33,18 @@ func SetupRouter() *gin.Engine {
 	})
 
 	//API route for version 1
-	v1 := r.Group("/api/v1")
+	publicGroup := r.Group("/api/public_group")
 
 	//If you want to pass your route through specific middlewares
-	v1.Use(middlewares.UserMiddleWares())
+	publicGroup.Use(middlewares.UserMiddleWares())
 	{
-		v1.POST("user-list", api.UserList)
+		publicGroup.POST("user-list", api.UserList)
 	}
 
 	//API route for version 2
-	v2 := r.Group("/api/v2")
+	authenticatedGroup := r.Group("/api/auth").Use(middlewares.WechatAuthCheck())
 
-	v2.POST("user-list", api.UserList)
+	authenticatedGroup.POST("user-list", api.UserList)
 
 	return r
 }
