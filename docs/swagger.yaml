@@ -1,4 +1,33 @@
+definitions:
+  api.UserResponse:
+    properties:
+      email:
+        type: string
+      id:
+        type: integer
+      name:
+        type: string
+    required:
+    - email
+    type: object
 info:
   contact: {}
-paths: {}
+paths:
+  /User:
+    get:
+      consumes:
+      - application/json
+      description: get user list
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/api.UserResponse'
+            type: array
+      summary: Get user list
+      tags:
+      - users
 swagger: "2.0"

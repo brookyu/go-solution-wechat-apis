@@ -6,7 +6,14 @@ import (
 	services "github.com/brookyu/go-solution-wechat-apis/services"
 	"github.com/gin-gonic/gin"
 )
-
+// UserList godoc
+// @Summary Get user list
+// @Description get user list
+// @Tags users
+// @Accept  json
+// @Produce  json
+// @Success 200 {array} UserResponse
+// @Router /User [get]
 func UserList(c *gin.Context) {
 	var userService services.UserService
 	err := json.NewDecoder(c.Request.Body).Decode(&userService.User)

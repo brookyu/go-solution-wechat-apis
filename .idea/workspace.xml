@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="423eb69a-048b-4e70-8432-7fddb0f9d390" name="Default Changelist" comment="initial push2">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/api/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/api/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs.go" beforeDir="false" afterPath="$PROJECT_DIR$/docs/docs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/swagger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/swagger.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jlGG4jQEc9bIVxGxUu4LQZRzkW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/go-solution-wechat-apis" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\GolandProjects\go-solution-wechat-apis\seeder\fixtures" />
+      <recent name="C:\Users\dell\GolandProjects\go-solution-wechat-apis\seeder" />
+      <recent name="C:\Users\dell\GolandProjects\go-solution-wechat-apis\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.debug">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-solution-wechat-apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/brookyu/go-solution-wechat-apis" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-solution-wechat-apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/brookyu/go-solution-wechat-apis" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-solution-wechat-apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/../go-solution-wechat-apis|$PROJECT_DIR$/main.go" />
+      <package value="github.com/brookyu/go-solution-wechat-apis" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/brookyu/go-solution-wechat-apis" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="go-solution-wechat-apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/brookyu/go-solution-wechat-apis" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.debug" />
+      <item itemvalue="Go Build.go build github.com/brookyu/go-solution-wechat-apis" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial push" />
+    <MESSAGE value="initial push2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial push2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="759" y="280" width="1094" height="880" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605709754786">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="759" y="280" width="1094" height="880" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605709754786" />
+    <state x="1165" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604389784127">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1165" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1604389784127" />
+    <state width="584" height="582" key="DebuggerActiveHint" timestamp="1604385345271">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="584" height="582" key="DebuggerActiveHint/0.0.1920.1160@0.0.1920.1160" timestamp="1604385345271" />
+    <state x="1220" y="319" key="EnvironmentVariablesDialog" timestamp="1604382739350">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1220" y="319" key="EnvironmentVariablesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1604382739350" />
+    <state x="1103" y="322" key="FileChooserDialogImpl" timestamp="1605708908835">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1103" y="322" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1605708908835" />
+    <state width="1866" height="383" key="GridCell.Tab.0.bottom" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.0.center" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.0.left" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.0.right" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.1.bottom" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.1.center" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.1.left" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state width="1866" height="383" key="GridCell.Tab.1.right" timestamp="1605710937156">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="383" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605710937156" />
+    <state x="453" y="248" key="Vcs.Push.Dialog.v2" timestamp="1605710879635">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="453" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605710879635" />
+    <state x="539" y="126" width="840" height="1034" key="search.everywhere.popup" timestamp="1604408870108">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="539" y="126" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1604408870108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/global/adm.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/api/user.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/user.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/routers/routers.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
